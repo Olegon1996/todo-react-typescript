@@ -14,7 +14,7 @@ export const TodoList: React.FC<Props> = ({
   removeHandler
 }) => {
   if (listTodo.length === 0) {
-    return <h1 className='center'>You haven't any todo's</h1>;
+    return <h1 className='center'>You haven't anything to do</h1>;
   }
 
   return (

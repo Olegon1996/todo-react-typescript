@@ -38,3 +38,10 @@ code {
 .todo.i {
   z-index: 2;
 }
+nav .brand-logo {
+  position: absolute;
+  color: #fff;
+  display: inline-block;
+  font-size: 1.3rem;
+  padding: 0;
+}
