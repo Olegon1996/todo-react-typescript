@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todo-react-typescript/static/css/main.4ed4acb1.chunk.css",
+    "main.js": "/todo-react-typescript/static/js/main.b2aa9869.chunk.js",
+    "main.js.map": "/todo-react-typescript/static/js/main.b2aa9869.chunk.js.map",
+    "runtime-main.js": "/todo-react-typescript/static/js/runtime-main.466567b5.js",
+    "runtime-main.js.map": "/todo-react-typescript/static/js/runtime-main.466567b5.js.map",
+    "static/js/2.a4160df3.chunk.js": "/todo-react-typescript/static/js/2.a4160df3.chunk.js",
+    "static/js/2.a4160df3.chunk.js.map": "/todo-react-typescript/static/js/2.a4160df3.chunk.js.map",
+    "index.html": "/todo-react-typescript/index.html",
+    "precache-manifest.c6b88728229a863576662fbca4c6319f.js": "/todo-react-typescript/precache-manifest.c6b88728229a863576662fbca4c6319f.js",
+    "service-worker.js": "/todo-react-typescript/service-worker.js",
+    "static/css/main.4ed4acb1.chunk.css.map": "/todo-react-typescript/static/css/main.4ed4acb1.chunk.css.map",
+    "static/js/2.a4160df3.chunk.js.LICENSE": "/todo-react-typescript/static/js/2.a4160df3.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.466567b5.js",
+    "static/js/2.a4160df3.chunk.js",
+    "static/css/main.4ed4acb1.chunk.css",
+    "static/js/main.b2aa9869.chunk.js"
+  ]
+}
